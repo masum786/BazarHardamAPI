@@ -176,6 +176,7 @@
     <Content Include="Uploads\IMG_20210605_144322.png" />
     <Content Include="Uploads\IMG_20210605_144323.png" />
     <Content Include="Uploads\SQL_Scripts.sql" />
+    <Content Include="Uploads\SSL_Ecommerce.sql" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
